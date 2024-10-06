@@ -1,0 +1,16 @@
+{
+  "name": "aoi.js-671",
+  "version": "1.0.0",
+  "description": "aoi.js@6.7.1 boş altyapı.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fhyrox",
+  "license": "ISC",
+  "dependencies": {
+    "@aoijs/aoi.db": "^0.0.0",
+    "aoi.js": "^6.8.5",
+    "chalk": "^4.1.2"
+  }
+}
